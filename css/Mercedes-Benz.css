@@ -1,0 +1,54 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)),url(../img/download.jpg);
+    background-size: cover;
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.logo{
+    width: 10%;
+    margin: auto;
+    padding: 35px;
+    
+    
+}
+.model{
+    padding:0px;
+    margin: 0 0 0 80px;
+    list-style: none;
+    display: inline-block;
+}
+.a{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+
+}
+
+.a::after{
+        content:'';
+        height: 3px;
+        width: 100%;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+}
+.reklam{
+    background-attachment: fixed;
+
+}
+h1{
+    margin: 30px;
+    padding: 30px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: dashed;
+    font-size:60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform:capitalize ;
+    text-indent: 20px ;
+    text-shadow: 5px 5px 5px rgb(61, 61, 61);
+}
+
