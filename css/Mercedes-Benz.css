@@ -52,3 +52,14 @@ h1{
     text-shadow: 5px 5px 5px rgb(61, 61, 61);
 }
 
+#login{
+    
+    color: rgb(255, 255, 255);
+    left: 100px;
+    text-decoration: dashed;
+    font-size:25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform:capitalize ;
+    text-indent: 20px ;
+    text-shadow: 5px 5px 5px rgb(61, 61, 61);
+}

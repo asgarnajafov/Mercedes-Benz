@@ -3,7 +3,7 @@ Mercedes-Benz
 # Mercedes-Benz
 ## Modellər haqqında müəlumat
 
-[![N|Solid](./presentation/logo.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](./presentation/logo2.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
