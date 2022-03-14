@@ -1,6 +1,5 @@
 # Mercedes-Benz
-Mercedes-Benz
-# Mercedes-Benz
+
 ## Modellər haqqında müəlumat
 
 [![N|Solid](./presentation/logo2.png)](https://nodesource.com/products/nsolid)
@@ -44,12 +43,7 @@ Mercedes-Benz modelləri haqqında müəlumat
 ```sh
 Bruno Sacco
 ```
-For production environments...
 
-```sh
-npm install --production
-NODE_ENV=production node app
-```
 
 ## Müəlumat
 
