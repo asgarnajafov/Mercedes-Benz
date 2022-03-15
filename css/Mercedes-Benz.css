@@ -63,3 +63,9 @@ h1{
     text-indent: 20px ;
     text-shadow: 5px 5px 5px rgb(61, 61, 61);
 }
+
+.text{
+    padding: 50px;
+    color: aliceblue;
+    font-size: 18px;
+}
